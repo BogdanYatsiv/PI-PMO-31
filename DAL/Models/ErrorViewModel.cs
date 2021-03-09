@@ -1,6 +1,6 @@
 using System;
 
-namespace TESTIO.Models
+namespace DAL.Models
 {
     public class ErrorViewModel
     {

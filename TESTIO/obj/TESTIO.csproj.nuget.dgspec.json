@@ -4,6 +4,16 @@
     "E:\\VSProjects\\TESTIO\\TESTIO\\TESTIO.csproj": {}
   },
   "projects": {
+    "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "E:\\VSProjects\\TESTIO\\TESTIO\\TESTIO.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +42,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -62,6 +76,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [

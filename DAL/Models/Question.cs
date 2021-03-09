@@ -5,9 +5,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TESTIO.Models
+namespace DAL.Models
 {
-    public class Answer
+    public class Question
     {
         [Key]
         public int Id
@@ -15,20 +15,16 @@ namespace TESTIO.Models
             get;
             set;
         }
+        [ForeignKey("Test")]
+        public int TestId { get; set; }
+
         [Required]
         public string Description
         {
             get;
             set;
         }
-        [Required]
-        public bool IsTrue { get; set; }
 
-        [ForeignKey("Question")]
-        public int QuestionId
-        {
-            get;
-            set;
-        }
+        public List<Answer> Answers { get; set; } = new List<Answer>();
     }
 }
