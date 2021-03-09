@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TESTIO.Models
+namespace DAL.Models
 {
     public class Test
     {

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TESTIO.Models.Test>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a asp-controller="Test" asp-action="Create" class="btn btn-primary">Create Test</a>
+
+<h1>Index</h1>
+<h2>
+    @foreach(var obj in Model)
+    {
+        <br /><a>@obj.Name</a>
+    }
+</h2>
+

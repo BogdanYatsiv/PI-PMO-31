@@ -21,13 +21,13 @@ using TESTIO;
 #nullable disable
 #nullable restore
 #line 2 "E:\VSProjects\TESTIO\TESTIO\Views\_ViewImports.cshtml"
-using TESTIO.Models;
+using DAL.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fe8994ba7282e224c7f939d350a47c9664a470d3", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"993ff66f14dff2d8f5ed0b4c0e65962cbaf37045", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

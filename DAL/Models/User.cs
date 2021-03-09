@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TESTIO.Models
+namespace DAL.Models
 {
     public class User
     {
