@@ -9,3 +9,11 @@ E:\VSProjects\TESTIO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 E:\VSProjects\TESTIO\DAL\obj\Debug\DAL.csproj.CopyComplete
 E:\VSProjects\TESTIO\DAL\obj\Debug\DAL.dll
 E:\VSProjects\TESTIO\DAL\obj\Debug\DAL.pdb
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.abstractions.dll
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.assert.dll
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.core.dll
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.execution.desktop.dll
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.abstractions.xml
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.assert.xml
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.core.xml
+E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.execution.desktop.xml

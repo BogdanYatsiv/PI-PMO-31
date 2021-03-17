@@ -433,3 +433,7 @@ E:\VSProjects\TESTIO\TESTIO\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
 E:\VSProjects\TESTIO\TESTIO\obj\Debug\net5.0\Razor\Views\Test\Create.cshtml.g.cs
 E:\VSProjects\TESTIO\TESTIO\bin\Debug\net5.0\DAL.dll
 E:\VSProjects\TESTIO\TESTIO\bin\Debug\net5.0\DAL.pdb
+E:\VSProjects\TESTIO\TESTIO\bin\Debug\net5.0\xunit.abstractions.dll
+E:\VSProjects\TESTIO\TESTIO\bin\Debug\net5.0\xunit.assert.dll
+E:\VSProjects\TESTIO\TESTIO\bin\Debug\net5.0\xunit.core.dll
+E:\VSProjects\TESTIO\TESTIO\bin\Debug\net5.0\xunit.execution.dotnet.dll
