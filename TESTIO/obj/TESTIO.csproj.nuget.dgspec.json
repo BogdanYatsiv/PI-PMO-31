@@ -1,31 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\TESTIO\\TESTIO.csproj": {}
+    "E:\\VSProjects\\TESTIO\\TESTIO\\TESTIO.csproj": {}
   },
   "projects": {
-    "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\DAL\\DAL.csproj": {
+    "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\DAL\\DAL.csproj",
+        "projectUniqueName": "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\DAL\\DAL.csproj"
+        "projectPath": "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\TESTIO\\TESTIO.csproj": {
+    "E:\\VSProjects\\TESTIO\\TESTIO\\TESTIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\TESTIO\\TESTIO.csproj",
+        "projectUniqueName": "E:\\VSProjects\\TESTIO\\TESTIO\\TESTIO.csproj",
         "projectName": "TESTIO",
-        "projectPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\TESTIO\\TESTIO.csproj",
-        "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\TESTIO\\obj\\",
+        "projectPath": "E:\\VSProjects\\TESTIO\\TESTIO\\TESTIO.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\VSProjects\\TESTIO\\TESTIO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -38,11 +43,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\DAL\\DAL.csproj"
+              "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\VSProjects\\TESTIO\\DAL\\DAL.csproj"
               },
-              "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\XUnit\\XUnit.csproj": {
-                "projectPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\XUnit\\XUnit.csproj"
+              "E:\\VSProjects\\TESTIO\\XUnit\\XUnit.csproj": {
+                "projectPath": "E:\\VSProjects\\TESTIO\\XUnit\\XUnit.csproj"
               }
             }
           }
@@ -102,22 +107,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\XUnit\\XUnit.csproj": {
+    "E:\\VSProjects\\TESTIO\\XUnit\\XUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\XUnit\\XUnit.csproj",
+        "projectUniqueName": "E:\\VSProjects\\TESTIO\\XUnit\\XUnit.csproj",
         "projectName": "XUnit",
-        "projectPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\XUnit\\XUnit.csproj",
-        "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDIE\\3_kurs\\програмна інж\\project\\PI-PMO-31\\XUnit\\obj\\",
+        "projectPath": "E:\\VSProjects\\TESTIO\\XUnit\\XUnit.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\VSProjects\\TESTIO\\XUnit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -178,7 +188,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
