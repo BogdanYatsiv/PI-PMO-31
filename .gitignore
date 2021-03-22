@@ -340,3 +340,14 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+TESTIO/appsettings.json
+BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+BLL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+DAL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+TESTIO/obj/Debug/net5.0/TESTIO.assets.cache
+TESTIO/obj/Debug/net5.0/TESTIO.csprojAssemblyReference.cache
+TESTIO/obj/project.assets.json
+TESTIO/obj/project.nuget.cache
+TESTIO/obj/TESTIO.csproj.nuget.dgspec.json
+TESTIO/obj/TESTIO.csproj.nuget.g.props
