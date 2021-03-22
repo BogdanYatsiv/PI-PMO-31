@@ -351,3 +351,5 @@ TESTIO/obj/project.assets.json
 TESTIO/obj/project.nuget.cache
 TESTIO/obj/TESTIO.csproj.nuget.dgspec.json
 TESTIO/obj/TESTIO.csproj.nuget.g.props
+.vs/TESTIO/DesignTimeBuild/.dtbcache.v2
+.vs/TESTIO/v16/.suo
