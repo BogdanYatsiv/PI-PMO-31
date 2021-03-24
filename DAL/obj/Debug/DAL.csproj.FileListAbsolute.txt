@@ -36,3 +36,22 @@ F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.c
 F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.csproj.CopyComplete
 F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.dll
 F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.pdb
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\DAL.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\DAL.pdb
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\Microsoft.Analytics.Types.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.abstractions.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.assert.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.core.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.execution.desktop.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.abstractions.xml
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.assert.xml
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.core.xml
+F:\PROJECT_PI\PI-PMO-31\DAL\bin\Debug\xunit.execution.desktop.xml
+F:\PROJECT_PI\PI-PMO-31\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\PROJECT_PI\PI-PMO-31\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\PROJECT_PI\PI-PMO-31\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\PROJECT_PI\PI-PMO-31\DAL\obj\Debug\DAL.dll
+F:\PROJECT_PI\PI-PMO-31\DAL\obj\Debug\DAL.pdb

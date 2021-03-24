@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Create Test";
+}
+<div style="width: 500px; height: auto;">
+    <form asp-controller="Test" asp-action="Create" method="post">
+        <div class="col">
+            <div class="mb-2">
+
+                <input type="text" class="form-control" placeholder="Name" aria-label="Name" name="Name">
+            </div>
+            <div class="mb-2">
+                <input type="text" class="form-control" placeholder="Description" aria-label="Description" name="Description">
+            </div>
+            <div class="form-group mb-2">
+                <div class="form-check">
+                    <input class="form-check-input" name="Lock" type="checkbox" id="Check">
+                    <label class="form-check-label" for="Check">Lock</label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Test created</button>
+        </div>
+
+    </form>
+</div>

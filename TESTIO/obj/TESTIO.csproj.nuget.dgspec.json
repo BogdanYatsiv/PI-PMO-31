@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\TESTIO\\TESTIO.csproj": {}
+    "F:\\PROJECT_PI\\PI-PMO-31\\TESTIO\\TESTIO.csproj": {}
   },
   "projects": {
-    "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\DAL\\DAL.csproj": {
+    "F:\\PROJECT_PI\\PI-PMO-31\\DAL\\DAL.csproj": {
       "restore": {
-        "projectUniqueName": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\DAL\\DAL.csproj",
+        "projectUniqueName": "F:\\PROJECT_PI\\PI-PMO-31\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\DAL\\DAL.csproj"
+        "projectPath": "F:\\PROJECT_PI\\PI-PMO-31\\DAL\\DAL.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\TESTIO\\TESTIO.csproj": {
+    "F:\\PROJECT_PI\\PI-PMO-31\\TESTIO\\TESTIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\TESTIO\\TESTIO.csproj",
+        "projectUniqueName": "F:\\PROJECT_PI\\PI-PMO-31\\TESTIO\\TESTIO.csproj",
         "projectName": "TESTIO",
-        "projectPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\TESTIO\\TESTIO.csproj",
-        "packagesPath": "C:\\Users\\Мой господин\\.nuget\\packages\\",
-        "outputPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\TESTIO\\obj\\",
+        "projectPath": "F:\\PROJECT_PI\\PI-PMO-31\\TESTIO\\TESTIO.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\PROJECT_PI\\PI-PMO-31\\TESTIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Мой господин\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +38,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\DAL\\DAL.csproj": {
-                "projectPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\DAL\\DAL.csproj"
+              "F:\\PROJECT_PI\\PI-PMO-31\\DAL\\DAL.csproj": {
+                "projectPath": "F:\\PROJECT_PI\\PI-PMO-31\\DAL\\DAL.csproj"
               },
-              "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\XUnit\\XUnit.csproj": {
-                "projectPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\XUnit\\XUnit.csproj"
+              "F:\\PROJECT_PI\\PI-PMO-31\\XUnit\\XUnit.csproj": {
+                "projectPath": "F:\\PROJECT_PI\\PI-PMO-31\\XUnit\\XUnit.csproj"
               }
             }
           }
@@ -102,21 +102,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21079.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\XUnit\\XUnit.csproj": {
+    "F:\\PROJECT_PI\\PI-PMO-31\\XUnit\\XUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\XUnit\\XUnit.csproj",
+        "projectUniqueName": "F:\\PROJECT_PI\\PI-PMO-31\\XUnit\\XUnit.csproj",
         "projectName": "XUnit",
-        "projectPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\XUnit\\XUnit.csproj",
-        "packagesPath": "C:\\Users\\Мой господин\\.nuget\\packages\\",
-        "outputPath": "F:\\Документи\\Назік\\Проект ПІ\\PI-PMO-31\\XUnit\\obj\\",
+        "projectPath": "F:\\PROJECT_PI\\PI-PMO-31\\XUnit\\XUnit.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\PROJECT_PI\\PI-PMO-31\\XUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Мой господин\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,18 +173,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21079.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using TESTIO.Data;
 using DAL.Models;
+using TESTIO.Models;
+using System;
 
 namespace TESTIO.Controllers
 {
@@ -21,13 +23,14 @@ namespace TESTIO.Controllers
         //POST-GET
         public IActionResult Create()
         {
-            return View();
+            return View("CreateTest");
         }
         [HttpPost]
-        public IActionResult Create(User obj)
+        public IActionResult Create(TestModel model)
         {
-            _db.Users.Add(obj);
-            _db.SaveChanges();
+            Test test = new Test() { Name = model.Name, Description = model.Description, Lock = model.Lock, CreatedDate = DateTime.Now};
+            //_db.Tests.Add(test);
+            //_db.SaveChanges();
             return RedirectToAction("Index");
         }
 
