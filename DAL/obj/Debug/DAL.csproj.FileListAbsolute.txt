@@ -17,3 +17,22 @@ E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.abstractions.xml
 E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.assert.xml
 E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.core.xml
 E:\VSProjects\TESTIO\DAL\bin\Debug\xunit.execution.desktop.xml
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\DAL.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\DAL.pdb
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\Microsoft.Analytics.Types.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.abstractions.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.assert.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.core.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.execution.desktop.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.abstractions.xml
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.assert.xml
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.core.xml
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\bin\Debug\xunit.execution.desktop.xml
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.dll
+F:\Документи\Назік\Проект ПІ\PI-PMO-31\DAL\obj\Debug\DAL.pdb
